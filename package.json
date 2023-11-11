@@ -1,0 +1,24 @@
+{
+  "name": "chatface",
+  "version": "0.0.1",
+  "description": "Headless react component for adding LLM Chatbot style experiences to applications.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csprabala/chatface.git"
+  },
+  "keywords": [
+    "LLM",
+    "Chatbots",
+    "React"
+  ],
+  "author": "Chandrasekhar Prabala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csprabala/chatface/issues"
+  },
+  "homepage": "https://github.com/csprabala/chatface#readme"
+}
