@@ -1,6 +1,6 @@
 {
   "name": "chatface",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Headless react component for adding LLM Chatbot style experiences to applications.",
   "main": "index.tsx",
   "scripts": {
