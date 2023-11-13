@@ -4,4 +4,10 @@ module.exports = {
         '@babel/preset-react',
         '@babel/preset-typescript'
     ],
+    plugins: [
+        ['@babel/plugin-transform-runtime', {
+            "useESModules": true
+        }],
+        '@babel/plugin-proposal-class-properties'
+    ]
 }
