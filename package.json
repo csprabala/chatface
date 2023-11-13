@@ -1,6 +1,6 @@
 {
   "name": "chatface",
-  "version": "0.0.2-alpha.1",
+  "version": "0.0.2-alpha.2",
   "description": "Headless react component for adding LLM Chatbot style experiences to applications. This is currently in pre alpha and is not ready for use.",
   "main": "dist/bundle.js",
   "scripts": {
